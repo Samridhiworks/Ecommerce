@@ -1,9 +1,9 @@
 import React from "react";
-import brand1 from '../Assets/Brand-1.webp'
-import brand2 from '../Assets/Brand-2.webp'
-import brand3 from '../Assets/Brand-3.webp'
-import brand4 from '../Assets/Brand-4.webp'
-import brand5 from '../Assets/Brand-5.webp'
+import brand1 from '../Assets/brand-1.webp'
+import brand2 from '../Assets/brand-2.webp'
+import brand3 from '../Assets/brand-3.webp'
+import brand4 from '../Assets/brand-4.webp'
+import brand5 from '../Assets/brand-5.webp'
             
 
 
